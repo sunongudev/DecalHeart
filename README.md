@@ -1,6 +1,6 @@
 # DecalHeart
 WINDOW:
-Install python3 and add environment variable. After run install file.
+Install python3 and add environment variable. After run install file.\n
 LINUX/MAC:
 Change install.bat to install.sh and run it.
 ANDROID:
